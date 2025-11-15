@@ -1,3 +1,7 @@
 plik testowy tekstowy
 sadsdsaasdfas
+<<<<<<< HEAD
 asdfgh
+=======
+12345678
+>>>>>>> 1dfdf252a3056428fa11e374647bd4e96757a295
